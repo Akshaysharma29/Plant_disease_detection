@@ -5,5 +5,5 @@ This is my first intergration project in which I have integrate my trained neura
 There is one issue that is resolved by 
 
 from keras import backend as K
-put this part before loading model.
+put this part before loading model(in app.py file).
 K.clear_session()
