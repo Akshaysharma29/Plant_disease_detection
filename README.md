@@ -7,5 +7,6 @@ There is one issue that is resolved by
 from keras import backend as K
 
 K.clear_session()
+
 put this part before loading model(in app.py file).
 
